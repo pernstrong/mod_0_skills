@@ -1,0 +1,18 @@
+Class:
+oven
+
+Attributes:
+capacity (float)
+type (string)
+currentTemperature(float)
+maxTemperature (float)
+isOn (boolean)
+bakingItem (boolean)
+lastTimeCleaned (string/datetime)
+
+Methods:
+turnOn (turnOn changes isOn to true / turnOn increases currentTemperature)
+addPizza (addPizza changes bakingItem to true)
+turnOff (turnOff changes isOn to false)
+cleanOven (cleanOven updates lastTimeCleaned)
+increaseTemperature (increaseTemperature modifies currentTemperature)

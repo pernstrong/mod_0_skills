@@ -1,0 +1,18 @@
+Class:
+menu
+
+Attributes:
+dailySpecial (boolean)
+color (string)
+fontSize (integer)
+numOfItems (integer)
+language (array)
+lastUpdate (datetime)
+
+Methods:
+addItem (addItem increases numOfItems)
+removeItem (removeItem decreases numOfItems)
+addDailySpecial (addDailySpecial modifies dailySpecial)
+translate (translate modifies language)
+increaseFontSize (increaseFontSize increases fontSize)
+updateMenu (updateMenu modifies lastUpdate)

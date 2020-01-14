@@ -2,10 +2,10 @@ Object:
 General Electric industrial pizza oven
 
 Attributes:
-capacity (100)
+capacity (100.0)
 type ("pizza oven")
-currentTemperature(500)
-maxTemperature (1000)
+currentTemperature(500.0)
+maxTemperature (1000.0)
 isOn (true)
 bakingItem (false)
 lastTimeCleaned (11/11/2019)

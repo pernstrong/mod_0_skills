@@ -1,0 +1,83 @@
+How to become a Turing student
+
+1. Research
+  1.1 About Turing
+    1.1.1 Read entire website
+      1.1.1.1 Write down questions
+      1.1.1.2 List pros/cons of Turing
+    1.1.2 Reach out to alumni
+      1.1.2.1 Find alumni Course Report reviews
+      1.1.2.2 Reach out through email or message
+        1.1.2.2.1 Find on Linked In, etc if email not listed
+      1.1.2.3 Schedule phone call, meeting or engage through email
+    1.1.3 Reach out to current students
+      1.1.3.1 Find online or email Erin @ Turing for contact info
+      1.1.3.2 Schedule time to talk or a meeting
+      1.1.3.3 Ask questions and get feedback
+  1.2 Program options
+    1.2.1 Research Front End vs Back End
+    1.2.2 Do independent research on job functions of each
+    1.2.3 Ask yourself what appeals more to you
+      1.2.3.1 If unsure, leave decision open for now
+  1.3 Finances
+    1.3.1 Budget expenses
+      1.3.1.1 Create a weekly and monthly budget
+      1.3.1.2 Include all expenses
+      1.3.1.3 Find areas to cut back
+      1.3.1.4 Plan for 10+ months to include job search
+      1.3.1.5 Ask yourself where this money will come from
+        1.3.1.5.1 If you have savings or financial support, great!
+        1.3.1.5.2 If not, consider a cost of living expense loan
+    1.3.2 Budget tuition
+      1.3.2.1 $1200 deposit, where coming from?
+      1.3.2.2 $18,800 for tuition, where coming from?
+      1.3.2.3 Try coding = $500 discount!
+        1.3.2.3.1 YOU SHOU DO TRY CODING ANYWAYS...but if for nothing else, do it for $500
+      1.3.2.4 Consider a loan if needed
+    1.3.3 Plan for the unexpected
+      1.3.3.1 Plan for emergencies or repeating a module
+      1.3.3.2 Plan for a longer job search than expected
+  1.4 Try coding
+    1.4.1 Schedule through website
+    1.4.2 Go, learn, ask questions
+    1.4.3 Get a feel for the teaching style and if it is a good fit for you
+2. Apply online
+  2.1 Resume or job history
+    2.1.1 Update Resume
+    2.1.2 Upload Resume
+    2.1.3 If no resume, enter job history
+  2.2 Logic problems
+    2.2.1 Practice, practice, practice before starting application
+    2.2.2 Take your time and write them out
+    2.2.3 Double check your work
+  2.3 Submit
+    2.3.1 Submit your application
+    2.3.2 Wait...but not too long
+3. Interview
+  3.1 Logic problems
+    3.1.1 Complete logic problems with interviewer
+  3.2 Answer questions
+    3.2.1 Answer questions about yourself, your experience, etc
+  3.3 Follow up questions
+    3.3.1 Prepare questions for interviewer
+    3.3.2 Ask! Take notes
+4. Prepare
+  4.1 Mod 0
+    4.1.1 Schedule mod 0
+    4.1.2 Start capstone ASAP
+    4.1.3 Take good notes, ask questions, engage!
+  4.2 Plan
+    4.2.1 Clear your schedule for your time at Turing
+    4.2.2 Get a routine
+      4.2.2.1 When will you wake up?
+      4.2.2.2 When will you study?
+      4.2.2.3 When will you exercise, read, relax, etc?
+  4.3 Practice
+    4.3.1 Practice skills learned during Mod 0
+      4.3.1.1 Practice daily to get repetition!
+    4.3.2 Practice on Codecademy.com
+      4.3.2.1 Find appropriate courses based on your program.
+    4.3.3 Read books recommended by Turing
+  5. Start at Turing!
+    5.1 Be on time
+    5.2 Be ready to learn!

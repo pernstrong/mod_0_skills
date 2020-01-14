@@ -1,0 +1,19 @@
+
+Class:
+Great Wall Chinese restaurant menu
+
+Attributes:
+dailySpecial (false)
+color (gray)
+fontSize (12)
+numOfItems (36)
+language (['English', 'Mandarin'])
+lastUpdate (01/01/2019)
+
+Methods:
+addItem (numOfItems = 37)
+removeItem (numOfItems = 35
+addDailySpecial (dailySpecial = true)
+translate (language = ['English', 'Mandarin', 'Spanish'])
+increaseFontSize (fontSize = 14)
+updateMenu (lastUpdate = 1/14/2020)
